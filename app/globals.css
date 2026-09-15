@@ -25,3 +25,5 @@
 @media(max-width:450px){.current-next{grid-template-columns:1fr}.current-next>div+div{border-left:0;border-top:1px solid #343f35;padding:12px 0 0}}
 
 
+
+.stat-card{display:block;position:relative;transition:background .18s,border-color .18s}.stat-card:hover,.stat-card:focus-visible{background:#202820;border-color:#789257}.stat-open{position:absolute;right:12px;bottom:12px;color:#c2f66a;opacity:0}.stat-card:hover .stat-open,.stat-card:focus-visible .stat-open{opacity:1}
